@@ -50,10 +50,6 @@ Deployment: Flask Server (can be extended to cloud platforms like AWS/Heroku)
 
 ⚡ Installation & Usage
 
-Clone the repository
-
-git clone https://github.com/your-username/medical-recommendation-system.git
-cd medical-recommendation-system
 
 
 Install dependencies
@@ -66,9 +62,7 @@ Run the Flask app
 python app.py
 
 
-Open in browser
 
-http://127.0.0.1:5000/
 
 📊 Example Workflow
 
